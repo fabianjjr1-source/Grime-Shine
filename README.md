@@ -25,3 +25,4 @@ Bookings are requests, not confirmed appointments.
 - Images: replace `logo.png` and `hero.png` with your preferred final branding images, keeping the same filenames.
 
 Before publishing, confirm that all service descriptions reflect what you actually offer and that Jotform email notifications are enabled.
+how’s down here 
